@@ -62,7 +62,7 @@ Caso nosso elemento "p" esteja em cima de algum outro elemento pai, o pai dele d
 
   
 
-Muito parecido com o EM, mas o que define esse "R" é que o pai sempre vai ser o body independente do pai do elemento.
+Muito parecido com o EM, mas o que define esse "R" é que o pai sempre vai ser o body independente do elemento.
 
   
 
