@@ -6,10 +6,10 @@
 
 Responsável por definir altura, largura, tamanhos de texto e etc... Acredito que seja o método mais utilizado mesmo sendo antigo.
 
-     body {
-	     font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
-	     font-size: 10px;
-	 }
+	body {
+		font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+		font-size: 10px;
+	}
 
 ### EM
 
